@@ -1,0 +1,9 @@
+{
+	"name": "DFPRPBITEST-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d180c613-6aef-4352-bc41-e298455e82f2",
+		"tenantId": "2d4feb35-6363-4b6c-94e0-a60d04fa4f02"
+	}
+}
